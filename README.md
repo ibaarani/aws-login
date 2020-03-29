@@ -7,9 +7,7 @@ In this workshop we'll learn how to build cloud-enabled mobile applications with
 ### Topics we'll be covering:
 
 - [Authentication](#adding-authentication)
-- [GraphQL API and AWS AppSync](#adding-a-graphql-api)
-- [Adding Analytics](#adding-analytics)
-- [Testing Applications with Device Farm](#testing-your-app)
+
 
 ## Getting Started - Creating the Android Studio Project
 
